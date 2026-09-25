@@ -10,13 +10,14 @@
 
 **Selecciona tu idioma / Select your language:**
 
-[![Español](https://img.shields.io/badge/🇪🇸_Español-Click_aquí-4285F4?style=flat)](https://github.com/Luanho11/Luanho11#-español)
-[![English](https://img.shields.io/badge/🇬🇧_English-Click_here-4285F4?style=flat)](https://github.com/Luanho11/Luanho11#-english)
+[![Español](https://img.shields.io/badge/🇪🇸_Español-Click_aquí-4285F4?style=flat)](#español)
+[![English](https://img.shields.io/badge/🇬🇧_English-Click_here-4285F4?style=flat)](#english)
 
 </div>
 
 ---
 
+<a name="español"></a>
 ## 🇪🇸 Español
 
 ### Sobre mí
@@ -130,6 +131,7 @@ Si tienes una idea, necesitas desarrollar un sitio web o buscas mejorar un proce
 
 ---
 
+<a name="english"></a>
 ## 🇬🇧 English
 
 ### About me
