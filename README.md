@@ -97,7 +97,7 @@ Sistema interno para gestionar clientes, cotizaciones, ventas, compras y operaci
 Plataforma interna para gestión de información y procesos empresariales.
 - Autenticación y control de acceso
 - Gestión de contenidos
-- Participación principal en el desarrollo
+- Coautor del desarrollo junto con el equipo
 
 > Proyecto colaborativo
 
@@ -211,7 +211,7 @@ Internal system for managing customers, quotations, sales, purchases and operati
 Internal platform for company information and business processes.
 - Authentication and role-based access
 - Content management
-- Major contributor to development
+- Co-authored with the team
 
 > Collaborative project
 
