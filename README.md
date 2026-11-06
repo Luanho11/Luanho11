@@ -106,6 +106,9 @@ Plataforma interna para gestión de información y procesos empresariales.
 - **[Sistema de Autenticación](https://github.com/Luanho11/AuthenticationProject)** — React, Spring Boot, JWT, MySQL
 - **[Reconocimiento Facial](https://github.com/Luanho11/facial-recognition-system-v3)** — Python, OpenCV, Flask
 - **[Chatbot Académico](https://github.com/Luanho11/chatbot-academico-upn)** — Python, Scikit-learn, Flask
+- **[NVS — Noova Ventilation System](https://github.com/Luanho11/nvs-ventilation-system)** — Python, PySide6, NumPy, SciPy; análisis de redes de ventilación minera
+- **[SUMI — Asistente de programación con IA](https://github.com/Luanho11/sumi-coder-assistant)** — Electron, React, TypeScript; tutoría y aprendizaje práctico de programación
+- **[SAEVUS](https://github.com/Luanho11/saevus)** — Unreal Engine 5.8, C++; prototipo de acción y exploración en tercera persona
 
 ### Certificaciones
 
@@ -220,6 +223,9 @@ Internal platform for company information and business processes.
 - **[Authentication System](https://github.com/Luanho11/AuthenticationProject)** — React, Spring Boot, JWT, MySQL
 - **[Facial Recognition](https://github.com/Luanho11/facial-recognition-system-v3)** — Python, OpenCV, Flask
 - **[Academic Chatbot](https://github.com/Luanho11/chatbot-academico-upn)** — Python, Scikit-learn, Flask
+- **[NVS — Noova Ventilation System](https://github.com/Luanho11/nvs-ventilation-system)** — Python, PySide6, NumPy, SciPy; underground mine ventilation network analysis
+- **[SUMI — AI Programming Assistant](https://github.com/Luanho11/sumi-coder-assistant)** — Electron, React, TypeScript; guided programming tutor for Windows
+- **[SAEVUS](https://github.com/Luanho11/saevus)** — Unreal Engine 5.8, C++; third-person action and exploration prototype
 
 ### Certifications
 
