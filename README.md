@@ -26,7 +26,7 @@ Soy **egresado técnico de Computación e Informática en CIBERTEC** y actualmen
 
 Me especializo en crear sitios web, aplicaciones web y sistemas internos para empresas. Me interesa desarrollar soluciones con una estructura clara, una buena experiencia de usuario y una arquitectura que pueda mantenerse y escalar a largo plazo.
 
-Actualmente me desempeño como **Full Stack Developer Jr.**, participando en el desarrollo de productos digitales, sistemas empresariales e integraciones.
+Entre junio y noviembre de 2026 fui **Practicante de Sistemas y responsable del área de TI en NOOVA S.A.C.**, donde desarrollé la web corporativa y el ERP interno, y fui coautor de la intranet de capacitación. Hoy estoy disponible para nuevas oportunidades como **Full Stack Developer**.
 
 ### Lo que hago
 
@@ -101,6 +101,14 @@ Plataforma interna para gestión de información y procesos empresariales.
 
 > Proyecto colaborativo
 
+#### Deriva Jurídico
+Plataforma editorial para un estudio de abogados, creada tras el retiro de sus artículos en LinkedIn.
+- JavaScript y Firebase (Auth, Firestore, Storage y Functions)
+- Panel de administración con roles: cada autor edita solo sus artículos
+- Vista previa propia de cada artículo al compartirlo
+
+> Proyecto freelance (2025 — 2026)
+
 #### Otros proyectos
 - **[API Hoteles](https://github.com/Luanho11/API-Hoteles)** — Java, Spring Boot, MySQL, OpenAPI
 - **[Sistema de Autenticación](https://github.com/Luanho11/AuthenticationProject)** — React, Spring Boot, JWT, MySQL
@@ -144,7 +152,7 @@ I am a **Computer Science and Informatics graduate from CIBERTEC** and currently
 
 I specialize in building websites, web applications and internal business systems. I am interested in creating solutions with clear structure, good user experience and architecture that can be maintained and scaled over time.
 
-I currently work as a **Junior Full Stack Developer**, contributing to digital products, business systems and integrations.
+From June to November 2026 I was a **Systems Intern and head of the IT area at NOOVA S.A.C.**, where I built the corporate website and the internal ERP, and co-authored the training intranet. I am now available for new opportunities as a **Full Stack Developer**.
 
 ### What I do
 
@@ -218,6 +226,14 @@ Internal platform for company information and business processes.
 - Co-authored with the team
 
 > Collaborative project
+
+#### Deriva Jurídico
+Editorial platform for a law firm, created after its articles were removed from LinkedIn.
+- JavaScript and Firebase (Auth, Firestore, Storage and Functions)
+- Admin panel with roles: each author edits only their own articles
+- Custom preview for every article when shared
+
+> Freelance project (2025 — 2026)
 
 #### Other projects
 - **[API Hoteles](https://github.com/Luanho11/API-Hoteles)** — Java, Spring Boot, MySQL, OpenAPI
